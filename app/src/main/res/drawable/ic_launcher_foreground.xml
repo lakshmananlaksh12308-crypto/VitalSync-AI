@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Medical Shield/Cross Backing Circle -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,22 C36.33,22 22,36.33 22,54 C22,71.67 36.33,86 54,86 C71.67,86 86,71.67 86,54 C86,36.33 71.67,22 54,22 Z" />
+    <!-- Outer Sync Ring Accent -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54" />
+    <!-- Medical Cross Core -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M50,34 h8 v14 h14 v8 h-14 v14 h-8 v-14 h-14 v-8 h14 Z" />
+    <!-- Vital ECG Pulse Waveform -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M29,54 L42,54 L46,45 L52,65 L57,39 L62,59 L66,54 L79,54" />
+    <!-- AI Sync Pulse Dot -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M78,32 C78,30.34 79.34,29 81,29 C82.66,29 84,30.34 84,32 C84,33.66 82.66,35 81,35 C79.34,35 78,33.66 78,32 Z" />
+</vector>
+
